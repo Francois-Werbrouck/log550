@@ -1,13 +1,21 @@
 LABO #1 TODO ->  samedi 24 février 2024 à 23 :59
 
 Lundi 22 Janvier - Rencontre #1 postponed
+
 Lundi 29 Janvier - Rencontre: division des taches, établir un calendrier des attentes selon les tâches
+
 Lundi 05 Février - Touchbase #1: Discussion des avancement du code - plan de match pour amorcer le code
+
 Vendredi 09 Février - Update message discord sur nos avancé + plan de match d'ici le touchbase #2
+
 Lundi 12 Février - Touchbase #2 - Code devrait être +- terminer
+
 Vendredi 16 Février - Touchbase (après cours? ou update message discord dépendant de l'avancé) update dernier bugs restant + plan de match fds avant les tests
+
 Lundi 19 Février - Test de performance + discussion rapport
+
 Vendredi 23 Février - Mise au propre rapport
+
 Samedi 24 Février - Remise
 
 
